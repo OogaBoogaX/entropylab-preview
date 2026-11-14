@@ -1,7 +1,7 @@
 // EntropyLab's production-only offline shell.
 // Generated with a content-derived version so browser worker update checks can
 // refresh the cached app even while several commits share one package version.
-const VERSION = "1223323a2bc2f1fe";
+const VERSION = "5249844e4e5ad97a";
 const CACHE_PREFIX = "entropylab-offline-";
 const CACHE_NAME = `${CACHE_PREFIX}${VERSION}`;
 
